@@ -1,0 +1,48 @@
+<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="name goes here">
+<meta charset="UTF-8">
+<title>lived experiences project | my portfolio</title>
+<link type="text/css" rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>my portfolio</h1>
+		<ul id="nav">
+			<li><a href="index.html">home</a></li>
+			<li><a href="lived.html">lived <br />experiences</a></li>
+			<li><a href="cultural.html">cultural <br />analysis</a></li>
+			<li><a href="formal.html">formal <br />research</a></li>
+			<li><a href="#">remix</a></li>
+			<li><a href="#">course <br />retrospective</a></li>
+			<li><a href="blog.html">blog</a></li>
+		</ul>
+	</header>
+	<main>
+		<h1>Remix Memo</h1>
+		<p>To: Dr. Christie Daniels
+From: Sydney Magnell
+Subject: Remix project assessment 
+Date: April 14th, 2014</p> 
+
+<p>I am writing to you in order to reflect and evaluate on my groups work for the remix project. In our documentary, our group decided to focus on the use of photoshop and the impact it has on society. We choose this topic because me and someone else in the group wrote about this on our cultural analysis paper. In this documentary we focused on how photoshop is done and revealed the unfortunate impact of the changes made to a model can be on men and women.</p>
+
+<p>In order to compose the issue at hand, we had to research how much changes take place during the process of photoshop and how it affects society. Doing this we had to look at numerous pictures comparing the differences, look at videos to see the actual process and talk to photoshop majors who could further explain the process. The issue with choosing photoshop as the topic is the trouble with collecting information and finding to visually organize it in the documentary. It was also difficult to find people that knew information about the topic. While researching this topic we talked to a photoshop major who knew a lot about the steps of the process and led us to a video that displays it very well. We also talked to other students to see how they felt about the issue and asked them to look at two pictures to talk about the differences. We used the Internet for some information, but I found the best information came from the videos we watched and the people we interviewed.</p> 
+
+<p>The most difficult part of the project was probably working with a group and deciding whose ideas we were to use and who’s to eliminate. In order to approach the project and see everyone’s ideas we all shot our own interviews and then brought them together to see which ones were best. We then decided which videos would best fit the issue we were attempting to display. I was lucky enough to have a group that worked well together and did not procrastinate until last minute. We were able to tape our videos and put the information together without too much stress. It was also helpful that a person in my group knew how to somehow use IMovie because I had never used it prior to this project. The things that we did not know how to do we were able to work through and come to a solution. In the end I was overall very happy with my group and how we collaborated.</p> 
+
+<p>While creating this documentary we had to decide the best way to present the issue so the audience would understand that photoshop is a serious problem in society. Doing this we had to layout the documentary in a way that hooked the audience from the start kept them interested and in the end effectively present them the issue. Knowing this we started with pictures showing the immense difference between photoshopped pictures and pictures that had not been altered. We then explained displayed how the process took place and started to explain the possible outcomes. In this documentary, I believe there are two very effective aspects. The first one being the video of the model who was photoshopped and the second being the pictures of people who experience eating disorders and hearing one talk about it. At the end of the video I think the audience will believe that the process of photoshop is a serious issue that should be acted upon.</p> 
+
+
+
+
+
+
+
+
+
+	</main>
+	<footer>
+		<p>&copy; 2013 [Sydney Magnell]</p>
+	</footer>
